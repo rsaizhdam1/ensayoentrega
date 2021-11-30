@@ -1,6 +1,6 @@
 
 /**
- *  Para probar Git Github desde BlueJ
+ *  Para probar Git Desde linea de comandos
  *  
  */
 public class TestEstudiante
